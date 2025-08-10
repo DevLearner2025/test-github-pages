@@ -1,0 +1,11 @@
+/* test.css */
+body {
+    background-color: green;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+h1 {
+    font-size: 3em;
+}
